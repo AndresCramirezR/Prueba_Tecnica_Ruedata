@@ -1,0 +1,27 @@
+Buen día
+
+para poder ejecutar de manera local cada ejercicio se debe hacer lo siguiente:
+
+Ejercicio 1:
+
+Se debe abrir el la carpeta "apimascotas" en un editor de codigo, por ejemplo visual estudio code.
+
+Ejecutar en la terminal del editor de texto react, dando inicio al servidor con el comando npm(o yarm) start
+
+Después de esto se nos abrira la api de manera local, en donde tenemos dos mascotas agregadas por defecto que se pueden eliminar y editar
+
+Tambien podemos agregar nuevas mascotas, con las especificaciones dadas en el ejercicio.
+
+Ejercicio 2:
+
+Se debe abrir el la carpeta "palindromo" en Visual Studio Code.
+
+Abrir el script palindromo.js
+
+Descargar la extención de quokka para probar de forma agíl el codigo 
+
+Despues de instalar la extención de quokka en Visual Studio Code se ejecuta dando click en Q+  donde nos abrira la terminal de 
+Visual Studio Code mostrandonos en consola los palindromos encontrados.
+
+
+
